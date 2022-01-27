@@ -6,7 +6,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>Hello TONY</h1>
+	<h1><?php echo "Hello TONY" ?></h1>
 	<br>
 	<a href="src/index.php">Carpeta SRC</a>
 </body>
